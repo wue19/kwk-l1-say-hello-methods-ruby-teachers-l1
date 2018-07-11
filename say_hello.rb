@@ -2,7 +2,7 @@
 
 variable = 1 
 
-varible = 3 
+variable = 3 
 
 puts variable 
 
